@@ -9,6 +9,12 @@ function App() {
       <ul>
         <li>Home</li>
         <li>Contato</li>
+        <li>Teste</li>
+      </ul>
+      <ul>
+        <li>Home</li>
+        <li>Contato</li>
+        <li>Teste</li>
       </ul>
       <Routes>
         <Route path="/" element={<Home />} />
